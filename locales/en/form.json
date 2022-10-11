@@ -1,0 +1,19 @@
+{
+  "validation": {
+    "email": {
+      "exist": "Review with such e-mail address already exist",
+      "pattern": "Incorrect e-mail format",
+      "required": "The field with e-mail is required"
+    },
+    "name": {
+      "long": "The name is too long",
+      "short": "The name is too short",
+      "required": "A Name field is required"
+    },
+    "message": {
+      "long": "The message is too long",
+      "short": "The message is too short",
+      "required": "The message field is required"
+    }
+  }
+}
